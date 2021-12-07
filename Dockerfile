@@ -1,4 +1,4 @@
-#name: Jacqueline Chong
+#author: Jacqueline Chong
 
 FROM jupyter/scipy-notebook
 
